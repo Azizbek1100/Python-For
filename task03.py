@@ -1,0 +1,3 @@
+n = int(input())
+for i in range(n, 16):
+    print(i, end=' ')
